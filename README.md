@@ -159,7 +159,7 @@ use your repo
 
 # expand birGit - pullRequest
 
-    git commit . "Sane discription of change"
+    git commit . "Sane description of change"
     git push
 
 [pull request](https://github.com/paven/birGit/compare)
